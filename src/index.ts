@@ -1,6 +1,5 @@
 import { McpAgent } from "agents/mcp";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
-import { z } from "zod";
 import type { ExecutionContext } from "@cloudflare/workers-types";
 import { v4 as uuidv4 } from "uuid";
 

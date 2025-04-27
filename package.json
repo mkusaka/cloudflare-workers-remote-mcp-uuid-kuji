@@ -19,7 +19,6 @@
 	"dependencies": {
 		"@modelcontextprotocol/sdk": "^1.7.0",
 		"agents": "^0.0.65",
-		"uuid": "^11.1.0",
-		"zod": "^3.24.2"
+		"uuid": "^11.1.0"
 	}
 }
