@@ -1,0 +1,12 @@
+packages:
+  - .
+minimumReleaseAge: 10080
+minimumReleaseAgeStrict: true
+strictDepBuilds: true
+trustPolicy: no-downgrade
+blockExoticSubdeps: true
+allowBuilds:
+  '@biomejs/biome': true
+  esbuild: true
+  sharp: true
+  workerd: true
